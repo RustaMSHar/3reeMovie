@@ -30,12 +30,6 @@ const Header = ({ onSearch }: { onSearch: (query: string) => void }) => {
                 </div>
 
                 <nav>
-                    <a
-                        className={location.pathname === "/project_x/about" ? "nav-link active" : "nav-link"}
-                        onClick={() => navigate("/project_x/about")}
-                    >
-                        О нас
-                    </a>
                     <div
                         className="favorites-container"
                         onClick={handleFavoritesClick}

@@ -20,7 +20,6 @@ const App = () => (
                             <Route path="/project_x/" element={<HomePage />} /> {/* Главная страница */}
                             <Route path="/project_x/movies/:id" element={<MovieDetails />} /> {/* Детали фильма */}
                             <Route path="/project_x/favorites" element={<FavoritesPage />} /> {/* Избранное */}
-                            <Route path="/project_x/about" element={<AboutPage />} /> {/* Страница "О нас" */}
                         </Routes>
                     </Suspense>
                 </main>

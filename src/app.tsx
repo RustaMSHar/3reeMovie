@@ -7,7 +7,6 @@ import { RatingsProvider } from "./components/RatingContext";
 const FavoritesPage = lazy(() => import("./favorites/FavoritesPage"));
 const MovieDetails = lazy(() => import("./details/MovieDetails"));
 const HomePage = lazy(() => import("./home/HomePage"));
-const AboutPage = lazy(() => import("./about/AboutPage")); 
 
 const App = () => (
     <Context.Provider value={{ store }}> 

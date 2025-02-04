@@ -131,4 +131,4 @@ dist
 .pnp.*
 
 #api 
-.src/api/instances.ts
+src/api/

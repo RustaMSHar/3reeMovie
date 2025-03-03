@@ -20,4 +20,3 @@ This is just the beginning. More exciting features coming soon! 🚀
 
 P.S R2R and Xikikamori ❤️
 
-P.S R2R and Xikikamori ❤️
